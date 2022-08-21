@@ -28,7 +28,7 @@ admin: pilotgus@gmail.com
 password: 102030
 
 ## Link do surge
-[labe-travels.surge.sh](url)
+[https://labe-travels.surge.sh/](https://labe-travels.surge.sh/)
 
 ## Imagens
 ![image](https://user-images.githubusercontent.com/104602579/179395986-9d95e61b-3a81-4743-a1d1-8580b91ac64a.png)
