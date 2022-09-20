@@ -1,5 +1,5 @@
 # 🚀 LabeX 
-- Plataforma de gerenciamento de viagens espaciais. A plataforma tem duas partes: uma pública e uma privada (com senha- mais abaixo).
+- Uma Plataforma de gerenciamento de viagens espaciais. A plataforma tem duas partes: uma pública e uma privada (com senha- mais abaixo).
 
 ## 🛠 Tecnologias utilizadas 
 - React Js
